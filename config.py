@@ -26,7 +26,7 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 3600
     # your telegram id
     OWNER_ID = "959184369"
-    SESSION_NAME = "UPLOADER-X-BOT"
+    SESSION_NAME = "Url_uploader81_bot"
     # database uri (mongodb)
     DATABASE_URL = ""
     MAX_RESULTS = "50"
